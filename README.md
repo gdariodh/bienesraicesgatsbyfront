@@ -1,3 +1,5 @@
+# APP QUE UTILIZA GRAPHQL, STRAPI
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
@@ -5,5 +7,5 @@
   </a>
 </p>
 
-# APP QUE UTILIZA GRAPHQL, STRAPI
+
 <!-- AUTO-GENERATED-CONTENT:END -->
